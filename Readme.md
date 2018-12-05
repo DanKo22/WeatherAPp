@@ -16,6 +16,9 @@ Additionally, this project includes the Machine Learning to forecast the weather
 
 >npm run start
 
+## Running Web
+http://usagihasagi.herokuapp.com/
+
 ## References
 1. [Data visualization with react-vis](https://medium.com/dailyjs/data-visualization-with-react-vis-bd2587fe1660)
 2. [React-vis documentation](http://uber.github.io/react-vis/documentation/)
