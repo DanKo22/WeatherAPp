@@ -11,7 +11,7 @@ class Map extends Component {
     if (!posList) {
       // posList = false => tạo array, set center là điểm mặc định
       posList = [];
-      center = {lat: 10.773793, lng:  106.660886} 
+      center = {lat: 11, lng:  106.660886} 
       Marker.position={lat: 10.773793, lng: 106.660886}
      
     }
